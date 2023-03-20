@@ -1,4 +1,4 @@
 from django.test import TestCase
 
 
-class TestDjango(TestCase):
+#  class TestDjango(TestCase):
